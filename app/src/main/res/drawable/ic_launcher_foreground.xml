@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- rounded tile -->
+    <path android:fillColor="#FF5C9A"
+        android:pathData="M30,28h48c3.3,0 6,2.7 6,6v40c0,3.3 -2.7,6 -6,6H30c-3.3,0 -6,-2.7 -6,-6V34c0,-3.3 2.7,-6 6,-6z"/>
+    <!-- motion trail frames -->
+    <path android:fillColor="#FFB84D"
+        android:pathData="M33,36h12v8h-12zM33,64h12v8h-12z"/>
+    <path android:fillColor="#2EC4B6"
+        android:pathData="M33,50h12v8h-12z"/>
+    <!-- play triangle -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M54,38l20,16l-20,16z"/>
+</vector>
